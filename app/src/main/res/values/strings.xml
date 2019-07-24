@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PaypalDemo</string>
+    <string name="enter_amount_in_usd">Enter amount in USD</string>
+</resources>
